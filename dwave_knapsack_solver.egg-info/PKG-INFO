@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dwave-knapsack-solver
+Version: 0.1
+Summary: A knapsack problem solver package using dwave quantum annealer
+Author: Sangram Deshpande
+Author-email: deshpande.sangram156@gmail.com
+License-File: LICENSE.TXT

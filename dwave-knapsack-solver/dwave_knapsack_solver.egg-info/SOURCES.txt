@@ -1,0 +1,7 @@
+README.md
+setup.py
+dwave_knapsack_solver.egg-info/PKG-INFO
+dwave_knapsack_solver.egg-info/SOURCES.txt
+dwave_knapsack_solver.egg-info/dependency_links.txt
+dwave_knapsack_solver.egg-info/requires.txt
+dwave_knapsack_solver.egg-info/top_level.txt

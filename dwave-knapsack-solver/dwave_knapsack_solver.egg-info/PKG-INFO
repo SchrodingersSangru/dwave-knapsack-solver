@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: dwave-knapsack-solver
+Version: 0.2
+Summary: dwave-knapsack-solver is now dwave-knapsack-solver
+Classifier: Development Status :: 7 - Inactive
+Description-Content-Type: text/markdown
+
+# dwave-knapsack-solver is now dwave-knapsack-solver
+
+This package has been renamed. Use `pip install dwave-knapsack-solver` instead.
+
+New package: https://pypi.org/project/dwave-knapsack-solver/

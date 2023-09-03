@@ -7,7 +7,10 @@
 
 install the package by using pip
 
-``` pip install dwave-knapsack-solver ```
+```
+pip install dwave-knapsack-solver
+
+```
 
 ### You have to pass the token, and the name of the solver("Advantage-sys", "hybrid_solver" or any other solver provided by Dwave.)
 

@@ -12,8 +12,8 @@ setup(
     author_email='deshpande.sangram156@gmail.com',
     
 
-    url = 'https://github.com/SchrodingersSangru/dwave_knapsack_solver',   # Provide either the link to your github or to your website
-    download_url = 'https://github.com/SchrodingersSangru/dwave_knapsack_solver/archive/refs/tags/0.1.tar.gz',    # I explain this later on
+    url = 'https://github.com/SchrodingersSangru/quantum-knapsack-solver/archive/refs/tags/1.1.0.zip',   # Provide either the link to your github or to your website
+    download_url = 'https://github.com/SchrodingersSangru/quantum-knapsack-solver/archive/refs/tags/1.1.0.tar.gz',
     keywords = ['knapsack_problem', 'Quantum_annealing', 'Quantum_genetic_algorithm', 'dwave_knapsack_solver', 'solve_knapsack_using_quantum', 'dwave_package'],
         
     packages= ['dwave-knapsack-solver'], #find_packages(),
@@ -25,4 +25,4 @@ setup(
 )
 
 
-## write test cases to it first. 
+## write test cases to it first. \\

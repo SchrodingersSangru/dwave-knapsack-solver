@@ -18,7 +18,7 @@ install the package by using pip
 
   from dwave_knapsack_solver.knapsack_genetic import QuantumGeneticKnapsackSolver
 
-  items = {'item1': 10, 'item2': 8, ...}
+  items = [ {'item1': 10, 'item2': 8, ...} ]  # items should be passed as list of dictionaries
   max_weight = 12
   num_geneations = 100
   population_size = 50

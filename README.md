@@ -12,13 +12,16 @@ install the package by using pip
 ### You have to pass the token, and the name of the solver("Advantage-sys", "hybrid_solver" or any other solver provided by Dwave.)
 
 
-### then you have to pass the items and it's associated weights, as a dictionary, {'item1': 10, ... } and num_generations & population_size in integer form. run the code, and wait for the solution to get printed.
+### then you have to pass the items in the format of a list of dictionaries, where each dictionary needs to have such weights and values {'weight': 3, 'value': 18} 
+
+### num_generations & population_size in integer form. Run the code, and get the solution. 
 
 ```
 
   from dwave_knapsack_solver.knapsack_genetic import QuantumGeneticKnapsackSolver
 
-  items = [ {'item1': 10, 'item2': 8, ...} ]  # items should be passed as list of dictionaries
+  items = [ {'weight': 2, 'value': 5}, {'weight': 3, 'value': 8}, ...]    # items should be passed as list of dictionaries
+
   max_weight = 12
   num_geneations = 100
   population_size = 50

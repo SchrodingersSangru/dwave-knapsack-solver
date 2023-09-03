@@ -29,7 +29,7 @@ pip install dwave-knapsack-solver
   num_geneations = 100
   population_size = 50
   dwave_token = 'your_dwave_token' # pass your dwave API token here
-  dwave_solver = 'Hybrid_solver'
+  dwave_solver = 'Hybrid_solver' # pass the name of any solver you want to test.
 
   solver = QuantumGeneticKnapsackSolver(items, max_weight, num_generations, population_size, dwave_token, dwave_solver)
 

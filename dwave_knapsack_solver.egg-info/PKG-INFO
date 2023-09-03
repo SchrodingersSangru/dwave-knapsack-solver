@@ -1,7 +1,12 @@
 Metadata-Version: 2.1
 Name: dwave-knapsack-solver
-Version: 0.1
+Version: 1.0
 Summary: A knapsack problem solver package using dwave quantum annealer
+Home-page: https://github.com/SchrodingersSangru/dwave_knapsack_solver
+Download-URL: https://github.com/SchrodingersSangru/dwave_knapsack_solver/archive/refs/tags/0.1.tar.gz
 Author: Sangram Deshpande
 Author-email: deshpande.sangram156@gmail.com
+Keywords: knapsack_problem,Quantum_annealing,Quantum_genetic_algorithm,dwave_knapsack_solver,solve_knapsack_using_quantum,dwave_package
+Requires-Python: >=3.6
+License-File: LICENSE
 License-File: LICENSE.TXT

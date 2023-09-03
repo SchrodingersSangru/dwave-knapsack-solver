@@ -1,8 +1,8 @@
+LICENSE
 LICENSE.TXT
-pyproject.toml
+README.md
 setup.py
-dwave_knapsack_solver/__init__.py
-dwave_knapsack_solver/knapsack_genetic.py
+dwave-knapsack-solver/setup.py
 dwave_knapsack_solver.egg-info/PKG-INFO
 dwave_knapsack_solver.egg-info/SOURCES.txt
 dwave_knapsack_solver.egg-info/dependency_links.txt

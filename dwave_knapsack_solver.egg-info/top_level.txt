@@ -1,1 +1,1 @@
-dwave_knapsack_solver
+dwave-knapsack-solver

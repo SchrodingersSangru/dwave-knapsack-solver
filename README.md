@@ -15,6 +15,9 @@ install the package by using pip
 ### then you have to pass the items and it's associated weights, as a dictionary, {'item1': 10, ... } and num_generations & population_size in integer form. run the code, and wait for the solution to get printed.
 
 ```
+
+  from dwave_knapsack_solver.knapsack_genetic import QuantumGeneticKnapsackSolver
+
   items = {'item1': 10, 'item2': 8, ...}
   max_weight = 12
   num_geneations = 100

@@ -12,7 +12,7 @@ max_weight = 8
 num_generations = 100
 population_size = 100
 
-dwave_token = 'DEV-3092b857364ad14474b6cca827ed602eda60252d'
+dwave_token = 'DEV-**********************************'
 dwave_solver = 'Advantage_system4.1'
 
 solver = QuantumGeneticKnapsackSolver(items, max_weight, num_generations, population_size, dwave_token, dwave_solver)

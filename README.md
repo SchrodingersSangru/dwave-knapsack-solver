@@ -1,8 +1,6 @@
 # Dwave-knapsack-solver
 
 
-
-
 #### This package is mainly for solving the knapsack problem using dwave quantum annealer.
 
 install the package by using pip
@@ -52,3 +50,6 @@ pip install dwave-knapsack-solver
 - Give as long a list of items as you want
 - use any dwave solver and perform results with it.
 - quantum genetic algorithm supported
+
+
+### Any publication of results obtained using this package must include proper citations or seek prior authorization from the author.
